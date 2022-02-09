@@ -104260,6 +104260,23 @@
         "description": "Rilum is SPL telegram wallet for buy and sell products and currencies.",
         "telegram": "https://t.me/Rilum"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8uhGf3XCJkBQoRxBycsEFWao3TPPajcTEbdXeJk1mFS7",
+      "symbol": "RIL",
+      "name": "Altay",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/abbas-bachari/logo/main/src/RIL.png",
+      "tags": [
+        "wallet",
+        "payment",
+        "Token"
+      ],
+      "extensions": {
+        "description": "Rilum is SPL telegram wallet for buy and sell products and currencies.",
+        "telegram": "https://t.me/Rilum"
+      }
     }
   ],
   "version": {
